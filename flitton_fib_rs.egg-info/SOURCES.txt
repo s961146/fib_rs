@@ -1,0 +1,10 @@
+Cargo.toml
+MANIFEST.in
+pyproject.toml
+setup.py
+flitton_fib_rs.egg-info/PKG-INFO
+flitton_fib_rs.egg-info/SOURCES.txt
+flitton_fib_rs.egg-info/dependency_links.txt
+flitton_fib_rs.egg-info/not-zip-safe
+flitton_fib_rs.egg-info/top_level.txt
+src/lib.rs
