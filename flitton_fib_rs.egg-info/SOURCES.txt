@@ -1,6 +1,5 @@
 Cargo.toml
 MANIFEST.in
-pyproject.toml
 setup.py
 flitton_fib_rs.egg-info/PKG-INFO
 flitton_fib_rs.egg-info/SOURCES.txt
